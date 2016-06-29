@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>index.html</file>
+        <file>js/jquery-1.11.3.js</file>
+        <file>js/jquery.android.js</file>
+    </qresource>
+</RCC>

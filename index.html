@@ -1,30 +1,3 @@
-# WeChat Project
-QmlWebView Project objectives is intergrated  communication for android For QT.
-
-## Structure 
-![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/qmlstruct.png)
-
-
-## Usage
-
-connect  server initConn
-```initConnect
-wechat.initConn();
-$.android.connect(successFn,errorFn)
-```
-
-disconnect server
-```
-$.android.disconnect() ;
-```
-
-send
-```
-$.android.send(obj);
-```
-
-Sample
-```
 <html>
 <head>
 
@@ -80,14 +53,3 @@ function send(){
         <input type="button" value="send" onClick="send()">
 </body>
 </html>
-
-```
-
-## Current status
-
-Done  work:
-* Connect  websocket
-
-## History
-
-* **v1.0.0** : 2016-06-29
