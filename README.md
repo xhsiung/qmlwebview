@@ -1,5 +1,5 @@
 # QmlWebView Project
-QmlWebView Project objectives is intergrated  communication for android For QT.
+QmlWebView Project objectives is intergrated  communication for android on the QTs environment.
 
 ## Structure 
 ![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/qmlstruct.png)
