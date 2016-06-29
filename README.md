@@ -1,9 +1,17 @@
-# WeChat Project
+# QmlWebView Project
 QmlWebView Project objectives is intergrated  communication for android For QT.
 
 ## Structure 
 ![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/qmlstruct.png)
 
+
+## How to Build
+```
+git clone https://github.com/xhsiung/qmlwebview.git
+cd qmlwebview
+qmake
+make 
+```
 
 ## Usage
 
