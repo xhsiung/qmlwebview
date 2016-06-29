@@ -15,9 +15,8 @@ make
 
 ## Usage
 
-connect  server initConn
-```initConnect
-wechat.initConn();
+connect server 
+```Connect
 $.android.connect(successFn,errorFn)
 ```
 
