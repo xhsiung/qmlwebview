@@ -60,7 +60,7 @@ function connect(){
         function(err){
                 //connection error
                 //err.code , err.reason
-                $('#message').html('fail to connect.  err num:'+err.code);
+                $('#message').html('fail to connect.  err code:' + err.code);
         });
 }
 
