@@ -5,7 +5,7 @@ QmlWebView Project objectives is intergrated  communication for android on the Q
 ![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/qmlstruct.png)
 
 ## Show
-![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/show.png)
+![image](https://raw.githubusercontent.com/xhsiung/qmlwebview/master/imgs/show2.png)
 
 ## How to Build
 ```
