@@ -38,7 +38,7 @@ Sample
 <head>
 
 <title>Sample "Hello, World" Application</title>
-<script src="js/jquery-1.11.3.js"></script>
+<script src="js/jquery-3.7.1.min.js"></script>
 <script src="js/jquery.android.min.js"></script>
 
 <script>
